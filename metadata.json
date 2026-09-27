@@ -1,0 +1,8 @@
+{
+  "name": "Remix RadGuide",
+  "description": "Preventive-maintenance reminder system for radiotherapy equipment at Parirenyatwa Hospital and Mpilo Central Hospital, featuring automated downtime logs and technician alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
